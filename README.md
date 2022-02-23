@@ -6,7 +6,3 @@ FooControllerからこんにちは。hoge.service.impl.FooServiceImpl@41bca15e
 FooServiceImpl2からこんにちは。hoge2.service.impl.FooServiceImpl2@2bfb3627
 
 FooController2からこんにちは。hoge2.service.impl.FooServiceImpl2@2bfb3627
-
-DiDemoApplicationからこんにちは。hoge.service.impl.FooServiceImpl@41bca15e
-
-DiDemoApplicationからこんにちは。hoge2.service.impl.FooServiceImpl2@2bfb3627
