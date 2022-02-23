@@ -11,12 +11,12 @@ import hoge2.web.controller.FooController2;
 public class AppConfig2 {
 
 	@Bean
-	public FooService2 getFooService() {
+	public FooService2 getFooService2() {
 		return new FooServiceImpl2();
 	}
 
 	@Bean
-	public FooController2 getFooController(FooService2 fs) {
+	public FooController2 getFooController2(FooService2 fs) {
 		return new FooController2(fs);
 	}
 	
